@@ -1,4 +1,4 @@
-# DevFest 2025 MCP Talk
+# Hello DevFest 2025! :D
 
 A Model Context Protocol (MCP) demonstration project showcasing how to build MCP servers Go.
 
