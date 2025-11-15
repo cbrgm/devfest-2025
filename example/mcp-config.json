@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "teashop": {
+      "command": "/Users/christian.bargmann/workspace/github.com/cbrgm/mcp-demo/example/bin/teashop-mcp-server",
+      "args": [],
+      "env": {}
+    }
+  }
+}
